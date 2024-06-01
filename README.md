@@ -13,3 +13,10 @@ Author Details:
 - COURSE: MCA in Cloud Computing
 
 
+To run the application do
+
+```pip install -r requirements.txt```
+
+then
+
+```python manage.py runserver```
